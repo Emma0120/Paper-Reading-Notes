@@ -100,7 +100,7 @@ Paper: [ON MUTUAL INFORMATION MAXIMIZATION FOR REP- RESENTATION LEARNING](https:
 
 - Looser bounds with simpler critics can lead to better representations
 
-![Screenshot 2020-10-29 at 8.30.38 PM](img/Screenshot 2020-10-29 at 8.30.38 PM.png)
+<img src="img/Screenshot 2020-10-29 at 8.30.38 PM.png" alt="Screenshot 2020-10-29 at 8.30.38 PM" style="zoom:67%;" />
 
 - VAE also has this problem
 
