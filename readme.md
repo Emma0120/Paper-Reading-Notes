@@ -6,9 +6,9 @@
 
 
 
-| Name                                                         | Tags                         | Notes                                 | Rating |      |
-| ------------------------------------------------------------ | ---------------------------- | ------------------------------------- | ------ | ---- |
-| **InfoMax**: "ON MUTUAL INFORMATION MAXIMIZATION FOR REP- RESENTATION LEARNING". (ICLR2020) | **Representation Learning**, | \[[Note](notes/InfoMax)]\[PDF]\[Code] | 🌟🌟🌟    |      |
-|                                                              |                              |                                       |        |      |
-|                                                              |                              |                                       |        |      |
+| Name                                                         | Tags                         | Notes                                    | Rating |      |
+| ------------------------------------------------------------ | ---------------------------- | ---------------------------------------- | ------ | ---- |
+| **InfoMax**: "ON MUTUAL INFORMATION MAXIMIZATION FOR REP- RESENTATION LEARNING". (ICLR2020) | **Representation Learning**, | \[[Note](notes/InfoMax.md)]\[PDF]\[Code] | 🌟🌟🌟    |      |
+|                                                              |                              |                                          |        |      |
+|                                                              |                              |                                          |        |      |
 
